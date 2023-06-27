@@ -13,4 +13,3 @@
   </body>
 </html>
 
-[Link](https://google.com){:target="_blank"}
