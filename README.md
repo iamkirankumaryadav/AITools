@@ -1,8 +1,10 @@
 # AI Tools
 
-Tools | Description
-:--- | :---
-[`ChatGPT`](https://chat.openai.com/) | OpenAI
+<table>
+  <tr><th>AI Tools</th>Description<th></th></tr>
+  <tr><code><a href=https://chat.openai.com/>ChatGPT</a></code></tr>
+</table>
+
 [Bard]()
 [Perplexity AI]()
 [Consensus]()
