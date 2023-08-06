@@ -16,3 +16,4 @@
   </body>
 </html>
 
+Dicover [Generative AI](https://ai.google/discover/generativeai/)
